@@ -40,7 +40,7 @@ The circuit was assembled on a prototyping board and tested with devices operati
 
 A simulated version of the circuit was created in Tinkercad to visualize the component arrangement and circuit connections.
 
-![Tinkercad Circuit Simulation](images/shifter-multimeter-reading.jepg)
+![Tinkercad Circuit Simulation](images/shifter-multimeter-reading.jpeg)
 ![Tinkercad Circuit Simulation](images/shifter-on.jpeg)
 
 ## How It Works
