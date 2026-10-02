@@ -32,16 +32,16 @@ This project explores a bidirectional level-shifting circuit that allows compati
 
 The circuit was assembled on a prototyping board and tested with devices operating at 3.3 V and 5 V logic levels.
 
-![Physical Logic Level Shifter Circuit](images/Bidirectional-logical-level-shifter-reading-2.jpeg)
-![Physical Logic Level Shifter Circuit](images/Bidirectional-logical-level-shifter-reading-2.jpeg)
+![Physical Logic Level Shifter Circuit](images/Bidirectional-logical-level-shifter-reading-2.png)
+![Physical Logic Level Shifter Circuit](images/Bidirectional-logical-level-shifter-reading-2.png)
 
 
 ## Tinkercad Simulation
 
 A simulated version of the circuit was created in Tinkercad to visualize the component arrangement and circuit connections.
 
-![Tinkercad Circuit Simulation](images/shifter-multimeter-reading.png)
-![Tinkercad Circuit Simulation](images/shifter-on.png)
+![Tinkercad Circuit Simulation](images/shifter-multimeter-reading.jepg)
+![Tinkercad Circuit Simulation](images/shifter-on.jpeg)
 
 ## How It Works
 
