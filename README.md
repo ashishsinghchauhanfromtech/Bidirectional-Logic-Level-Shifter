@@ -42,7 +42,7 @@ A simulated version of the circuit was created in Tinkercad to visualize the com
 
 ![Tinkercad Circuit Simulation](images/shifter-multimeter-reading.jpeg)
 ![Tinkercad Circuit Simulation](images/shifter-on.jpeg)
-##when the button is clicked
+## when the button is clicked
 ![Tinkercad Circuit Simulation](images/when-button-is-clicked.jpeg)
 
 
